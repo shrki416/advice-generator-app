@@ -67,7 +67,7 @@ p {
 .divider {
   height: 1rem;
   width: 100%;
-  background: url("/images/pattern-divider-desktop.svg");
+  background: url("./images/pattern-divider-desktop.svg");
 }
 
 .dye {
